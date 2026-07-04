@@ -44,10 +44,10 @@ import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
 import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
 
 const loveNotes = [
-    "I like you.", "Stay.", "You matter.", "Text me.",
-    "Always you.", "Soft heart.", "Mine?", "Call me?",
-    "You glow.", "Don’t overthink.", "Forever maybe.",
-    "Still choosing you.", "You feel safe.", "My person."
+    "I loveee uuu.", "Stay.", "Uuu matter.", "Text me.",
+    "Always uuu.", "Soft heart.", "Mine🤭", "Call me?",
+    "I'm uuurs", "Don’t overthink.", "Forever 💖.",
+    "Chuiimuii.", "uuu feel safe.", "My fav person."
 ];
 
 const scene = new THREE.Scene();
